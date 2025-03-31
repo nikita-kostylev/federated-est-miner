@@ -1,0 +1,2740 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<log>
+  <trace>
+    <event>
+      <string key="org:group" value="G97"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Pawel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T11:40:50.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G97"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Pawel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T11:41:06.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G97"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Pawel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="Wait"/>
+      <date key="time:timestamp" value="2012-05-04T11:41:33.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G97"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Pawel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T12:01:57.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G97"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Pawel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="Wait - User"/>
+      <date key="time:timestamp" value="2012-05-04T12:32:05.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G97"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Pawel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T14:16:48.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G97"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Pawel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-04T14:17:04.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G97"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-12T01:14:43.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="N38"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Robert"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD335"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T23:16:41.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N38"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Robert"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD335"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T23:21:46.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N41"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Michael"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD335"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T23:55:05.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N41"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Michael"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD335"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-05T00:04:38.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N41"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD335"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-05T01:01:48.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="N38"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Michael"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD267"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T18:40:53.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N38"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Michael"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD267"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T18:41:16.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="S3 2nd"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="James"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD267"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T19:11:11.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="S3 2nd"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="James"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD267"/>
+      <string key="lifecycle:transition" value="Wait"/>
+      <date key="time:timestamp" value="2012-05-04T19:11:15.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="S3 2nd"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="James"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD267"/>
+      <string key="lifecycle:transition" value="Assigned"/>
+      <date key="time:timestamp" value="2012-05-04T20:01:51.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="S3 2nd"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Brad"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD267"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T20:07:10.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="S3 2nd"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Brad"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD267"/>
+      <string key="lifecycle:transition" value="Wait"/>
+      <date key="time:timestamp" value="2012-05-04T20:07:15.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="S3 2nd"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Brad"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD267"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-07T15:46:04.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="S3 2nd"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD267"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-15T01:19:03.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="D3"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Maria"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD126"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T22:52:14.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D3"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Maria"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD126"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T22:52:33.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D3"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Cristiane"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD126"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-07T15:05:13.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D3"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Cristiane"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD126"/>
+      <string key="lifecycle:transition" value="Wait"/>
+      <date key="time:timestamp" value="2012-05-07T15:23:50.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D3"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Cristiane"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD126"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-07T21:06:53.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D3"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD126"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-08T01:05:32.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="G96"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Edison"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD436"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T16:15:17.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G96"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Edison"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD436"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T16:15:39.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="M12"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Elin"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD436"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-07T08:08:44.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="M11"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Jon"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD436"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-07T09:12:02.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="M11"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Jon"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD436"/>
+      <string key="lifecycle:transition" value="Wait"/>
+      <date key="time:timestamp" value="2012-05-07T09:12:33.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="M11"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Jon"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD436"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-07T10:13:02.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="M11"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD436"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-15T01:19:12.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="G96"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="fr"/>
+      <string key="org:resource" value="Angelica"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD699"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T17:02:08.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G96"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="fr"/>
+      <string key="org:resource" value="Angelica"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD699"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T17:07:02.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G97"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="fr"/>
+      <string key="org:resource" value="Joakim"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD699"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-05T03:19:28.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G97"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="fr"/>
+      <string key="org:resource" value="Magdalena"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD699"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-07T12:28:15.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="J12 2nd"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="fr"/>
+      <string key="org:resource" value="Jakub"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD699"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-07T14:37:10.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="J12 2nd"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="fr"/>
+      <string key="org:resource" value="Jakub"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD699"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-07T14:37:45.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="J12 2nd"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="fr"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD699"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-15T01:19:08.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="S36"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Ulrika"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD370"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T21:14:56.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="S36"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Ulrika"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD370"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T21:15:13.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="K1 3rd"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Eduardo"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD370"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T21:45:08.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="K1 3rd"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Eduardo"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD370"/>
+      <string key="lifecycle:transition" value="Wait - Implementation"/>
+      <date key="time:timestamp" value="2012-05-04T21:45:31.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="K1 3rd"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Eduardo"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD370"/>
+      <string key="lifecycle:transition" value="Wait - User"/>
+      <date key="time:timestamp" value="2012-05-07T16:22:47.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="K1 3rd"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Eduardo"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD370"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-07T17:24:12.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="K1 3rd"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Eduardo"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD370"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-07T17:24:35.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="K1 3rd"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD370"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-15T01:18:57.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="D2"/>
+      <string key="resource country" value="Belgium"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="David"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD235"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T18:46:20.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D2"/>
+      <string key="resource country" value="Belgium"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="David"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD235"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T18:46:45.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D2"/>
+      <string key="resource country" value="Belgium"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="David"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD235"/>
+      <string key="lifecycle:transition" value="Assigned"/>
+      <date key="time:timestamp" value="2012-05-04T19:07:08.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D2"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD235"/>
+      <string key="lifecycle:transition" value="Assigned"/>
+      <date key="time:timestamp" value="2012-05-07T18:47:12.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D2"/>
+      <string key="resource country" value="Belgium"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Paul"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD235"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-11T12:24:57.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D2"/>
+      <string key="resource country" value="Belgium"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Paul"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD235"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-11T13:52:53.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D2"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD235"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-12T01:13:02.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="D3"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Diego"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD53"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T22:42:51.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D3"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Diego"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD53"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T22:44:38.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D3"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Diego"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD53"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-04T23:02:36.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D3"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD53"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-05T01:01:49.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="G96"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Malgorzata"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD742"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T18:12:50.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G96"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Malgorzata"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD742"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T18:12:59.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G195"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Chethan"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD742"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-07T05:04:22.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G195"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Chethan"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD742"/>
+      <string key="lifecycle:transition" value="Wait - Implementation"/>
+      <date key="time:timestamp" value="2012-05-07T05:05:22.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G195"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Chethan"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD742"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-07T07:57:50.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G97"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Magdalena"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD742"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-07T12:10:40.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G97"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Magdalena"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD742"/>
+      <string key="lifecycle:transition" value="Assigned"/>
+      <date key="time:timestamp" value="2012-05-07T12:10:56.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G97"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Malgorzata"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD742"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-07T14:01:06.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G97"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Malgorzata"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD742"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-07T14:07:13.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G97"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Malgorzata"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD742"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-07T14:07:16.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="D7"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Jonas"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD38"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T18:14:58.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D7"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Jonas"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD38"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T18:15:04.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="A14"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Partner"/>
+      <string key="organization involved" value="Org line E"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD38"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-07T12:19:05.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D7"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Jonas"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD38"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-07T12:24:10.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D7"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Jonas"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD38"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-07T12:26:43.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D7"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Jonas"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD38"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-07T12:26:46.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="N15 2nd"/>
+      <string key="resource country" value="Canada"/>
+      <string key="organization country" value="ca"/>
+      <string key="org:resource" value="Eric"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T18:06:32.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N15 2nd"/>
+      <string key="resource country" value="Canada"/>
+      <string key="organization country" value="ca"/>
+      <string key="org:resource" value="Eric"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T18:07:38.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N15 2nd"/>
+      <string key="resource country" value="Canada"/>
+      <string key="organization country" value="ca"/>
+      <string key="org:resource" value="Eric"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="Assigned"/>
+      <date key="time:timestamp" value="2012-05-04T18:09:58.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N15 2nd"/>
+      <string key="resource country" value="Canada"/>
+      <string key="organization country" value="ca"/>
+      <string key="org:resource" value="Alexandre"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T20:28:42.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N15 2nd"/>
+      <string key="resource country" value="Canada"/>
+      <string key="organization country" value="ca"/>
+      <string key="org:resource" value="Alexandre"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-04T20:29:51.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N15 2nd"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="ca"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-12T01:13:04.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="S42"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Alexsandra"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD627"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T16:33:34.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="S42"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Alexsandra"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD627"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T16:34:40.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="S42"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Alexsandra"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD627"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T16:52:54.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G140 2nd"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Azad"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_10"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD627"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T17:02:32.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G140 2nd"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Azad"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_10"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD627"/>
+      <string key="lifecycle:transition" value="Wait - User"/>
+      <date key="time:timestamp" value="2012-05-04T17:02:46.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G140 2nd"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Azad"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_10"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD627"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-07T09:43:19.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G140 2nd"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_10"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD627"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-15T01:19:11.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="D5"/>
+      <string key="resource country" value="Belgium"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Brecht"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD697"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T17:20:00.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D5"/>
+      <string key="resource country" value="Belgium"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Brecht"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD697"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T17:20:13.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D4"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Rodrigo"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD697"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T17:40:40.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D5"/>
+      <string key="resource country" value="Belgium"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Katia"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD697"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T17:48:47.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D5"/>
+      <string key="resource country" value="Belgium"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Katia"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD697"/>
+      <string key="lifecycle:transition" value="Wait - User"/>
+      <date key="time:timestamp" value="2012-05-04T17:48:51.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D5"/>
+      <string key="resource country" value="Belgium"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Katia"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD697"/>
+      <string key="lifecycle:transition" value="Assigned"/>
+      <date key="time:timestamp" value="2012-05-04T17:51:00.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D5"/>
+      <string key="resource country" value="Belgium"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Brecht"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD697"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-07T11:13:55.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D5"/>
+      <string key="resource country" value="Belgium"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Brecht"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD697"/>
+      <string key="lifecycle:transition" value="Wait - User"/>
+      <date key="time:timestamp" value="2012-05-07T11:14:11.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D5"/>
+      <string key="resource country" value="Belgium"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Brecht"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD697"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-11T13:01:09.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D5"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD697"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-12T01:13:12.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="G96"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="in"/>
+      <string key="org:resource" value="Hebert"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T13:21:10.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G96"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="in"/>
+      <string key="org:resource" value="Hebert"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T13:22:33.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G230 2nd"/>
+      <string key="resource country" value="INDIA"/>
+      <string key="organization country" value="in"/>
+      <string key="org:resource" value="Ashok"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="E_10"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T14:25:07.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G230 2nd"/>
+      <string key="resource country" value="INDIA"/>
+      <string key="organization country" value="in"/>
+      <string key="org:resource" value="Ashok"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="E_10"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="Wait"/>
+      <date key="time:timestamp" value="2012-05-04T14:33:46.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G230 2nd"/>
+      <string key="resource country" value="INDIA"/>
+      <string key="organization country" value="in"/>
+      <string key="org:resource" value="Ashok"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="E_10"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="Assigned"/>
+      <date key="time:timestamp" value="2012-05-04T14:56:00.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G230 2nd"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="in"/>
+      <string key="org:resource" value="Rodrigo"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="E_10"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T16:30:28.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G230 2nd"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="in"/>
+      <string key="org:resource" value="Rodrigo"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="E_10"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="Wait - Implementation"/>
+      <date key="time:timestamp" value="2012-05-04T18:51:33.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G230 2nd"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="in"/>
+      <string key="org:resource" value="Rodrigo"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="E_10"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="Wait - User"/>
+      <date key="time:timestamp" value="2012-05-10T15:55:45.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G230 2nd"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="in"/>
+      <string key="org:resource" value="Rodrigo"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="E_10"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-14T19:12:42.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G230 2nd"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="in"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="E_10"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-15T01:19:25.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="N36"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Tracy"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD420"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T21:20:44.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N36"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Tracy"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD420"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T21:21:09.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N36"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Tracy"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD420"/>
+      <string key="lifecycle:transition" value="Wait - User"/>
+      <date key="time:timestamp" value="2012-05-04T23:34:03.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N36"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Tracy"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD420"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-08T22:54:43.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N36"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD420"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-09T01:06:46.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="D3"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Maria"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD53"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T21:01:28.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D3"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Maria"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD53"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T21:02:08.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D3"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Anderson"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD53"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-07T17:20:38.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D3"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Anderson"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD53"/>
+      <string key="lifecycle:transition" value="Wait - User"/>
+      <date key="time:timestamp" value="2012-05-07T17:29:04.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D3"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD53"/>
+      <string key="lifecycle:transition" value="Wait - User"/>
+      <date key="time:timestamp" value="2012-05-07T21:03:16.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D3"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Anderson"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD53"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-09T17:27:28.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D3"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD53"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-10T01:08:19.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="G76"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Thomas"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_5"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD383"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T22:35:55.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G76"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Thomas"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_5"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD383"/>
+      <string key="lifecycle:transition" value="Wait - User"/>
+      <date key="time:timestamp" value="2012-05-04T22:35:59.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G76"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Thomas"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_5"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD383"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-04T23:03:38.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G76"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_5"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD383"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-12T01:12:40.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="G97"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Christoffer"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD327"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-05T09:58:02.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G179"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Krzysztof"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD327"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-07T10:35:01.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G179"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Krzysztof"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD327"/>
+      <string key="lifecycle:transition" value="Assigned"/>
+      <date key="time:timestamp" value="2012-05-07T10:35:11.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G179"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Maciej"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD327"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-07T10:47:46.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G179"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Maciej"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD327"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-07T11:03:04.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G179"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD327"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-15T01:18:43.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="G300"/>
+      <string key="resource country" value="Belgium"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Henk"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T14:11:27.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G300"/>
+      <string key="resource country" value="Belgium"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Henk"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T14:11:46.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G300"/>
+      <string key="resource country" value="Belgium"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Henk"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T14:14:28.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G322"/>
+      <string key="resource country" value="Belgium"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Michael"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T14:38:56.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G322"/>
+      <string key="resource country" value="Belgium"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Michael"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="Assigned"/>
+      <date key="time:timestamp" value="2012-05-04T14:39:16.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G322"/>
+      <string key="resource country" value="Belgium"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Len"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T14:57:46.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G322"/>
+      <string key="resource country" value="Belgium"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Len"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="Wait"/>
+      <date key="time:timestamp" value="2012-05-04T14:57:52.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G322"/>
+      <string key="resource country" value="Belgium"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Len"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-07T16:45:58.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G322"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-15T01:19:22.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="N38"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Robert"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD378"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-05T02:00:00.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N38"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Robert"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD378"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-05T02:02:11.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N38"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Robert"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD378"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-05T02:03:37.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N44"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Jon"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD378"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-07T13:18:18.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N44"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Jon"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD378"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-07T13:19:33.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N44"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD378"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-15T01:18:50.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="G76"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Niklas"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_5"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="High"/>
+      <string key="product" value="PROD173"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T22:10:06.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N25 2nd"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="James"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="High"/>
+      <string key="product" value="PROD173"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T22:35:21.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N25 2nd"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="James"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="High"/>
+      <string key="product" value="PROD173"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-05T00:03:46.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N25 2nd"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="James"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="High"/>
+      <string key="product" value="PROD173"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-05T00:10:10.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N25 2nd"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="High"/>
+      <string key="product" value="PROD173"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-12T01:12:43.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="G97"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Urszula"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD296"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T14:00:27.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G97"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Urszula"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD296"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T14:01:08.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G271 2nd"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Agnivesh"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_10"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD296"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T14:04:46.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G271 2nd"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Agnivesh"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_10"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD296"/>
+      <string key="lifecycle:transition" value="Assigned"/>
+      <date key="time:timestamp" value="2012-05-04T14:05:25.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G271 2nd"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Aditi"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_10"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD296"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T14:18:26.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G50 2nd"/>
+      <string key="resource country" value="INDIA"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Senthilkumar"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD296"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T16:08:44.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G50 2nd"/>
+      <string key="resource country" value="INDIA"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Senthilkumar"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD296"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-04T16:12:20.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G50 2nd"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD296"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-12T01:14:09.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="S42"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Joel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD453"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T15:14:12.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="S42"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Joel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD453"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T15:14:58.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N35 2nd"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Ulf"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_10"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD453"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T15:42:15.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N35 2nd"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Ulf"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_10"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD453"/>
+      <string key="lifecycle:transition" value="Wait - User"/>
+      <date key="time:timestamp" value="2012-05-04T15:54:59.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N35 2nd"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Ulf"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_10"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD453"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-04T16:42:31.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N35 2nd"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_10"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD453"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-12T01:13:47.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="S56"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Krzysztof"/>
+      <string key="organization involved" value="Other"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD253"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T15:48:41.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G373"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Patrick"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD253"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T16:58:09.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G373"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Patrick"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD253"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-04T16:58:59.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G373"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD253"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-12T01:13:39.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="G76"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Michael"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_5"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD383"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T23:13:09.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G76"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Michael"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_5"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD383"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-04T23:15:22.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G76"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_5"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD383"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-12T01:12:38.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="C9"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Heverton"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD275"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T21:36:15.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="C9"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Heverton"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD275"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T21:36:44.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="C9"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Heverton"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD275"/>
+      <string key="lifecycle:transition" value="In Call"/>
+      <date key="time:timestamp" value="2012-05-04T21:38:03.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="C9"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Heverton"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD275"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T21:38:56.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="C9"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Heverton"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD275"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-04T21:39:08.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="C9"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD275"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-12T01:12:46.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="G96"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Davi"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD279"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T16:28:49.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G96"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Davi"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD279"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T16:31:49.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G96"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Davi"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD279"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T16:32:16.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="M8"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Christos"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD279"/>
+      <string key="lifecycle:transition" value="Wait"/>
+      <date key="time:timestamp" value="2012-05-04T16:53:43.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="M8"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Christos"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD279"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-15T09:44:23.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="S42"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Vanessa"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD660"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T16:25:33.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="S42"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Vanessa"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD660"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T16:26:47.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="S42"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Vanessa"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD660"/>
+      <string key="lifecycle:transition" value="Wait - User"/>
+      <date key="time:timestamp" value="2012-05-04T16:30:13.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="S42"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Andreas"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD660"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T16:34:35.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="S42"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Andreas"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD660"/>
+      <string key="lifecycle:transition" value="Wait - User"/>
+      <date key="time:timestamp" value="2012-05-04T16:34:38.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="S42"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Andreas"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD660"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-08T14:25:00.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="S42"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Andreas"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD660"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-08T14:53:25.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="S42"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD660"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-16T01:18:59.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="L31 2nd"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="James"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD172"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T20:39:41.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="L31 2nd"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="James"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD172"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-04T20:40:04.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="L31 2nd"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD172"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-12T01:12:50.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="S56"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Krzysztof"/>
+      <string key="organization involved" value="Other"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD321"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T15:46:03.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="S56"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Krzysztof"/>
+      <string key="organization involved" value="Other"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD321"/>
+      <string key="lifecycle:transition" value="Wait - User"/>
+      <date key="time:timestamp" value="2012-05-04T15:48:03.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="S56"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Krzysztof"/>
+      <string key="organization involved" value="Other"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD321"/>
+      <string key="lifecycle:transition" value="Wait - User"/>
+      <date key="time:timestamp" value="2012-05-07T12:17:50.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="S56"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Krzysztof"/>
+      <string key="organization involved" value="Other"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD321"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-07T12:22:14.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="S56"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Other"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD321"/>
+      <string key="lifecycle:transition" value="Closed"/>
+      <date key="time:timestamp" value="2012-05-08T01:06:18.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="C9"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Lierson"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD562"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-05T06:58:40.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="C9"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Lierson"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD562"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-05T07:02:39.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="C9"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Lierson"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD562"/>
+      <string key="lifecycle:transition" value="In Call"/>
+      <date key="time:timestamp" value="2012-05-05T07:23:03.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="G96"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Angelica"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T16:22:04.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G96"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Angelica"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="In Progress"/>
+      <date key="time:timestamp" value="2012-05-04T16:24:54.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="S6"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Dauri"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Accepted"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="Wait - User"/>
+      <date key="time:timestamp" value="2012-05-04T21:38:24.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="S6"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Dauri"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Completed"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="Resolved"/>
+      <date key="time:timestamp" value="2012-05-08T14:55:18.000+02:00"/>
+    </event>
+  </trace>
+</log>

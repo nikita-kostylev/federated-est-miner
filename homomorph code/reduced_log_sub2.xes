@@ -1,0 +1,537 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<log>
+  <trace/>
+  <trace>
+    <event>
+      <string key="org:group" value="N41"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Robert"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD335"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T23:22:40.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="S3 2nd"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Michael"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD267"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T18:44:47.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="D3"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Maria"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD126"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T22:53:37.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="M12"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Edison"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD436"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T16:27:03.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="M11"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Elin"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD436"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-07T08:09:46.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="G97"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="fr"/>
+      <string key="org:resource" value="Angelica"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD699"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T17:27:46.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G97"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="fr"/>
+      <string key="org:resource" value="Joakim"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD699"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-05T03:19:37.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="J12 2nd"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="fr"/>
+      <string key="org:resource" value="Magdalena"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_2"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD699"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-07T12:28:34.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="K1 3rd"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Ulrika"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_2"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD370"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T21:19:01.000+02:00"/>
+    </event>
+  </trace>
+  <trace/>
+  <trace/>
+  <trace>
+    <event>
+      <string key="org:group" value="G195"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Malgorzata"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_1"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD742"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T18:15:35.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G97"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Chethan"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD742"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-07T07:58:24.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="A14"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Jonas"/>
+      <string key="organization involved" value="Org line E"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD38"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T18:16:50.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D7"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Partner"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD38"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-07T12:20:15.000+02:00"/>
+    </event>
+  </trace>
+  <trace/>
+  <trace>
+    <event>
+      <string key="org:group" value="G140 2nd"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Alexsandra"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_10"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD627"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T16:55:33.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="D4"/>
+      <string key="resource country" value="Belgium"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Brecht"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD697"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T17:21:50.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="D5"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Rodrigo"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD697"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T17:46:49.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="G230 2nd"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="in"/>
+      <string key="org:resource" value="Hebert"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="E_10"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T13:40:49.000+02:00"/>
+    </event>
+  </trace>
+  <trace/>
+  <trace>
+    <event>
+      <string key="org:group" value="D3"/>
+      <string key="resource country" value="Brazil"/>
+      <string key="organization country" value="br"/>
+      <string key="org:resource" value="Maria"/>
+      <string key="organization involved" value="Org line B"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD53"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T21:03:48.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="G76"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_5"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD383"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T22:30:26.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="G97"/>
+      <string key="resource country" value="RUSSIAN FEDERATION"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Maksim"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD327"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-05T09:50:11.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G179"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Christoffer"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD327"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-05T09:58:51.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="G322"/>
+      <string key="resource country" value="Belgium"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Henk"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T14:14:17.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G322"/>
+      <string key="resource country" value="Belgium"/>
+      <string key="organization country" value="be"/>
+      <string key="org:resource" value="Henk"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD424"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T14:15:05.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="N44"/>
+      <string key="resource country" value="USA"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Robert"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD378"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-05T02:03:42.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="G76"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_5"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="High"/>
+      <string key="product" value="PROD173"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T22:01:34.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N25 2nd"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="us"/>
+      <string key="org:resource" value="Niklas"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="High"/>
+      <string key="product" value="PROD173"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T22:17:24.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="G271 2nd"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Urszula"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_10"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD296"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T14:03:37.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G50 2nd"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Aditi"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_2"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD296"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T16:03:54.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="N35 2nd"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Joel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_10"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD453"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T15:19:21.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="N35 2nd"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Joel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_10"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD453"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T15:19:22.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="S56"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Maria"/>
+      <string key="organization involved" value="Other"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD253"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T15:37:13.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="G373"/>
+      <string key="resource country" value="POLAND"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Krzysztof"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD253"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T15:49:21.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="G76"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="E_5"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD383"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T23:10:26.000+02:00"/>
+    </event>
+  </trace>
+  <trace/>
+  <trace/>
+  <trace>
+    <event>
+      <string key="org:group" value="S42"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Vanessa"/>
+      <string key="organization involved" value="Org line C"/>
+      <string key="org:role" value="V3_2"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD660"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T16:30:52.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="L31 2nd"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD172"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T20:36:48.000+02:00"/>
+    </event>
+    <event>
+      <string key="org:group" value="L31 2nd"/>
+      <string key="resource country" value="0"/>
+      <string key="organization country" value="se"/>
+      <string key="org:resource" value="Siebel"/>
+      <string key="organization involved" value="Org line A2"/>
+      <string key="org:role" value="A2_1"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Medium"/>
+      <string key="product" value="PROD172"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T20:36:49.000+02:00"/>
+    </event>
+  </trace>
+  <trace>
+    <event>
+      <string key="org:group" value="S56"/>
+      <string key="resource country" value="Sweden"/>
+      <string key="organization country" value="pl"/>
+      <string key="org:resource" value="Anna"/>
+      <string key="organization involved" value="Other"/>
+      <string key="concept:name" value="Queued"/>
+      <string key="impact" value="Low"/>
+      <string key="product" value="PROD321"/>
+      <string key="lifecycle:transition" value="Awaiting Assignment"/>
+      <date key="time:timestamp" value="2012-05-04T15:40:28.000+02:00"/>
+    </event>
+  </trace>
+  <trace/>
+  <trace/>
+</log>

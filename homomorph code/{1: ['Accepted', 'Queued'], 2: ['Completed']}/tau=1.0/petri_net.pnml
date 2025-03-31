@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pnml>
+  <net id="net1" type="http://www.pnml.org/version-2009/grammar/pnmlcoremodel">
+    <page id="n0">
+      <place id="(20 | 6)">
+        <name>
+          <text>(20 | 6)</text>
+        </name>
+      </place>
+      <place id="(24 | 10)">
+        <name>
+          <text>(24 | 10)</text>
+        </name>
+      </place>
+      <place id="(17 | 3)">
+        <name>
+          <text>(17 | 3)</text>
+        </name>
+      </place>
+      <place id="startPlace">
+        <name>
+          <text>startPlace</text>
+        </name>
+        <initialMarking>
+          <text>1</text>
+        </initialMarking>
+      </place>
+      <place id="endPlace">
+        <name>
+          <text>endPlace</text>
+        </name>
+      </place>
+      <transition id="Accepted">
+        <name>
+          <text>Accepted</text>
+        </name>
+      </transition>
+      <transition id="Completed">
+        <name>
+          <text>Completed</text>
+        </name>
+      </transition>
+      <transition id="[end]">
+        <name>
+          <text>[end]</text>
+        </name>
+      </transition>
+      <transition id="[start&gt;">
+        <name>
+          <text>[start&gt;</text>
+        </name>
+      </transition>
+      <transition id="Queued">
+        <name>
+          <text>Queued</text>
+        </name>
+      </transition>
+      <arc id="8209468828896" source="[start&gt;" target="(17 | 3)"/>
+      <arc id="8209468828929" source="(24 | 10)" target="Accepted"/>
+      <arc id="8209468829346" source="Completed" target="(20 | 6)"/>
+      <arc id="8209468828926" source="Queued" target="(17 | 3)"/>
+      <arc id="8209468828902" source="[end]" target="endPlace"/>
+      <arc id="8209468829385" source="(17 | 3)" target="[end]"/>
+      <arc id="8209468829418" source="Accepted" target="(24 | 10)"/>
+      <arc id="8209468828941" source="(20 | 6)" target="[end]"/>
+      <arc id="8209468829424" source="(17 | 3)" target="Queued"/>
+      <arc id="8209468829364" source="[start&gt;" target="(24 | 10)"/>
+      <arc id="8209468829397" source="startPlace" target="[start&gt;"/>
+      <arc id="8209468829109" source="(20 | 6)" target="Completed"/>
+      <arc id="8209468829367" source="(24 | 10)" target="[end]"/>
+      <arc id="8209468829406" source="[start&gt;" target="(20 | 6)"/>
+    </page>
+    <finalmarkings>
+      <marking>
+        <place idref="endPlace">
+          <text>1</text>
+        </place>
+      </marking>
+    </finalmarkings>
+  </net>
+</pnml>

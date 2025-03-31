@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pnml>
+  <net id="net1" type="http://www.pnml.org/version-2009/grammar/pnmlcoremodel">
+    <page id="n0">
+      <place id="(8 | 16)">
+        <name>
+          <text>(8 | 16)</text>
+        </name>
+      </place>
+      <place id="(16 | 8)">
+        <name>
+          <text>(16 | 8)</text>
+        </name>
+      </place>
+      <place id="(256 | 128)">
+        <name>
+          <text>(256 | 128)</text>
+        </name>
+      </place>
+      <place id="(32 | 16)">
+        <name>
+          <text>(32 | 16)</text>
+        </name>
+      </place>
+      <place id="(2 | 1)">
+        <name>
+          <text>(2 | 1)</text>
+        </name>
+      </place>
+      <place id="endPlace">
+        <name>
+          <text>endPlace</text>
+        </name>
+      </place>
+      <place id="(64 | 32)">
+        <name>
+          <text>(64 | 32)</text>
+        </name>
+      </place>
+      <place id="startPlace">
+        <name>
+          <text>startPlace</text>
+        </name>
+        <initialMarking>
+          <text>1</text>
+        </initialMarking>
+      </place>
+      <place id="(8 | 4)">
+        <name>
+          <text>(8 | 4)</text>
+        </name>
+      </place>
+      <place id="(4 | 2)">
+        <name>
+          <text>(4 | 2)</text>
+        </name>
+      </place>
+      <place id="(128 | 64)">
+        <name>
+          <text>(128 | 64)</text>
+        </name>
+      </place>
+      <transition id="[start&gt;">
+        <name>
+          <text>[start&gt;</text>
+        </name>
+      </transition>
+      <transition id="Y">
+        <name>
+          <text>Y</text>
+        </name>
+      </transition>
+      <transition id="X">
+        <name>
+          <text>X</text>
+        </name>
+      </transition>
+      <transition id="B">
+        <name>
+          <text>B</text>
+        </name>
+      </transition>
+      <transition id="W">
+        <name>
+          <text>W</text>
+        </name>
+      </transition>
+      <transition id="G">
+        <name>
+          <text>G</text>
+        </name>
+      </transition>
+      <transition id="K">
+        <name>
+          <text>K</text>
+        </name>
+      </transition>
+      <transition id="[end]">
+        <name>
+          <text>[end]</text>
+        </name>
+      </transition>
+      <transition id="L">
+        <name>
+          <text>L</text>
+        </name>
+      </transition>
+      <arc id="7796006651523" source="(2 | 1)" target="[end]"/>
+      <arc id="7796006650887" source="[start&gt;" target="(256 | 128)"/>
+      <arc id="7796007732627" source="(32 | 16)" target="X"/>
+      <arc id="7796006651421" source="startPlace" target="[start&gt;"/>
+      <arc id="7796007732519" source="(16 | 8)" target="L"/>
+      <arc id="7796007732648" source="X" target="(16 | 8)"/>
+      <arc id="7796006651058" source="B" target="(128 | 64)"/>
+      <arc id="7796006651835" source="(256 | 128)" target="B"/>
+      <arc id="7796006651067" source="(4 | 2)" target="K"/>
+      <arc id="7796006651715" source="Y" target="(4 | 2)"/>
+      <arc id="7796006651466" source="G" target="(64 | 32)"/>
+      <arc id="7796006651598" source="K" target="(2 | 1)"/>
+      <arc id="7796007732306" source="W" target="(32 | 16)"/>
+      <arc id="7796006650977" source="[end]" target="endPlace"/>
+      <arc id="7796006651106" source="(128 | 64)" target="G"/>
+      <arc id="7796007732582" source="L" target="(8 | 16)"/>
+      <arc id="7796007929703" source="(8 | 4)" target="Y"/>
+      <arc id="7796006651373" source="(64 | 32)" target="W"/>
+      <arc id="7796007732594" source="(8 | 16)" target="X"/>
+      <arc id="7796007881077" source="L" target="(8 | 4)"/>
+    </page>
+    <finalmarkings>
+      <marking>
+        <place idref="endPlace">
+          <text>1</text>
+        </place>
+      </marking>
+    </finalmarkings>
+  </net>
+</pnml>

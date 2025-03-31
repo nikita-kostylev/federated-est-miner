@@ -1,0 +1,9 @@
+*.pyc
+/.idea
+/venv/
+/.vscode
+*.log
+.mypy_cache
+/.venv/
+.venv/
+/logandother/

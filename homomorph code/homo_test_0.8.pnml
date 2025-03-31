@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pnml>
+  <net id="net1" type="http://www.pnml.org/version-2009/grammar/pnmlcoremodel">
+    <page id="n0">
+      <place id="(32 | 16)">
+        <name>
+          <text>(32 | 16)</text>
+        </name>
+      </place>
+      <place id="(2 | 1)">
+        <name>
+          <text>(2 | 1)</text>
+        </name>
+      </place>
+      <place id="(80 | 12)">
+        <name>
+          <text>(80 | 12)</text>
+        </name>
+      </place>
+      <place id="(64 | 32)">
+        <name>
+          <text>(64 | 32)</text>
+        </name>
+      </place>
+      <place id="endPlace">
+        <name>
+          <text>endPlace</text>
+        </name>
+      </place>
+      <place id="(48 | 10)">
+        <name>
+          <text>(48 | 10)</text>
+        </name>
+      </place>
+      <place id="(32 | 4)">
+        <name>
+          <text>(32 | 4)</text>
+        </name>
+      </place>
+      <place id="(8 | 2)">
+        <name>
+          <text>(8 | 2)</text>
+        </name>
+      </place>
+      <place id="(4 | 2)">
+        <name>
+          <text>(4 | 2)</text>
+        </name>
+      </place>
+      <place id="(256 | 128)">
+        <name>
+          <text>(256 | 128)</text>
+        </name>
+      </place>
+      <place id="(36 | 10)">
+        <name>
+          <text>(36 | 10)</text>
+        </name>
+      </place>
+      <place id="(64 | 8)">
+        <name>
+          <text>(64 | 8)</text>
+        </name>
+      </place>
+      <place id="(72 | 36)">
+        <name>
+          <text>(72 | 36)</text>
+        </name>
+      </place>
+      <place id="(128 | 64)">
+        <name>
+          <text>(128 | 64)</text>
+        </name>
+      </place>
+      <place id="(16 | 2)">
+        <name>
+          <text>(16 | 2)</text>
+        </name>
+      </place>
+      <place id="startPlace">
+        <name>
+          <text>startPlace</text>
+        </name>
+        <initialMarking>
+          <text>1</text>
+        </initialMarking>
+      </place>
+      <transition id="L">
+        <name>
+          <text>L</text>
+        </name>
+      </transition>
+      <transition id="B">
+        <name>
+          <text>B</text>
+        </name>
+      </transition>
+      <transition id="W">
+        <name>
+          <text>W</text>
+        </name>
+      </transition>
+      <transition id="G">
+        <name>
+          <text>G</text>
+        </name>
+      </transition>
+      <transition id="X">
+        <name>
+          <text>X</text>
+        </name>
+      </transition>
+      <transition id="[end]">
+        <name>
+          <text>[end]</text>
+        </name>
+      </transition>
+      <transition id="K">
+        <name>
+          <text>K</text>
+        </name>
+      </transition>
+      <transition id="Y">
+        <name>
+          <text>Y</text>
+        </name>
+      </transition>
+      <transition id="[start&gt;">
+        <name>
+          <text>[start&gt;</text>
+        </name>
+      </transition>
+      <arc id="8770036302086" source="L" target="(72 | 36)"/>
+      <arc id="8770036302728" source="(36 | 10)" target="L"/>
+      <arc id="8770036321419" source="Y" target="(4 | 2)"/>
+      <arc id="8770036322187" source="(128 | 64)" target="G"/>
+      <arc id="8770036302485" source="G" target="(80 | 12)"/>
+      <arc id="8770036302743" source="startPlace" target="[start&gt;"/>
+      <arc id="8770036302233" source="(80 | 12)" target="Y"/>
+      <arc id="8770036322073" source="(64 | 8)" target="L"/>
+      <arc id="8770036321692" source="(48 | 10)" target="K"/>
+      <arc id="8770036302236" source="[end]" target="endPlace"/>
+      <arc id="8770036302749" source="(72 | 36)" target="W"/>
+      <arc id="8770036301984" source="Y" target="(36 | 10)"/>
+      <arc id="8770036322211" source="B" target="(128 | 64)"/>
+      <arc id="8770036321572" source="W" target="(32 | 16)"/>
+      <arc id="8770036322220" source="(8 | 2)" target="K"/>
+      <arc id="8770036321581" source="W" target="(32 | 4)"/>
+      <arc id="8770036321452" source="(16 | 2)" target="K"/>
+      <arc id="8770036321974" source="G" target="(64 | 8)"/>
+      <arc id="8770036321338" source="[start&gt;" target="(256 | 128)"/>
+      <arc id="8770036321851" source="(256 | 128)" target="B"/>
+      <arc id="8770036321725" source="(32 | 16)" target="X"/>
+      <arc id="8770036302404" source="G" target="(72 | 36)"/>
+      <arc id="8770036302797" source="(36 | 10)" target="K"/>
+      <arc id="8770036322259" source="X" target="(48 | 10)"/>
+      <arc id="8770036321365" source="G" target="(64 | 32)"/>
+      <arc id="8770036321374" source="(64 | 32)" target="W"/>
+      <arc id="8770036302815" source="X" target="(80 | 12)"/>
+      <arc id="8770036321377" source="(4 | 2)" target="K"/>
+      <arc id="8770036321761" source="(32 | 4)" target="Y"/>
+      <arc id="8770036302437" source="W" target="(36 | 10)"/>
+      <arc id="8770036321509" source="(48 | 10)" target="L"/>
+      <arc id="8770036322277" source="K" target="(2 | 1)"/>
+      <arc id="8770036302830" source="(72 | 36)" target="Y"/>
+      <arc id="8770036321518" source="W" target="(48 | 10)"/>
+      <arc id="8770036321905" source="X" target="(16 | 2)"/>
+      <arc id="8770036302578" source="(80 | 12)" target="L"/>
+      <arc id="8770036322298" source="L" target="(8 | 2)"/>
+      <arc id="8770036321791" source="(2 | 1)" target="[end]"/>
+    </page>
+    <finalmarkings>
+      <marking>
+        <place idref="endPlace">
+          <text>1</text>
+        </place>
+      </marking>
+    </finalmarkings>
+  </net>
+</pnml>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pnml>
+  <net id="net1" type="http://www.pnml.org/version-2009/grammar/pnmlcoremodel">
+    <page id="n0">
+      <place id="startPlace">
+        <name>
+          <text>startPlace</text>
+        </name>
+        <initialMarking>
+          <text>1</text>
+        </initialMarking>
+      </place>
+      <place id="endPlace">
+        <name>
+          <text>endPlace</text>
+        </name>
+      </place>
+      <place id="(20 | 5)">
+        <name>
+          <text>(20 | 5)</text>
+        </name>
+      </place>
+      <place id="(18 | 3)">
+        <name>
+          <text>(18 | 3)</text>
+        </name>
+      </place>
+      <place id="(24 | 9)">
+        <name>
+          <text>(24 | 9)</text>
+        </name>
+      </place>
+      <transition id="[end]">
+        <name>
+          <text>[end]</text>
+        </name>
+      </transition>
+      <transition id="[start&gt;">
+        <name>
+          <text>[start&gt;</text>
+        </name>
+      </transition>
+      <transition id="Queued">
+        <name>
+          <text>Queued</text>
+        </name>
+      </transition>
+      <transition id="Completed">
+        <name>
+          <text>Completed</text>
+        </name>
+      </transition>
+      <transition id="Accepted">
+        <name>
+          <text>Accepted</text>
+        </name>
+      </transition>
+      <arc id="8763821385984" source="(24 | 9)" target="[end]"/>
+      <arc id="8763821386401" source="(24 | 9)" target="Accepted"/>
+      <arc id="8763821386434" source="startPlace" target="[start&gt;"/>
+      <arc id="8763821385987" source="[end]" target="endPlace"/>
+      <arc id="8763821386026" source="Queued" target="(20 | 5)"/>
+      <arc id="8763821386443" source="(20 | 5)" target="[end]"/>
+      <arc id="8763821385966" source="(18 | 3)" target="Completed"/>
+      <arc id="8763821386350" source="(18 | 3)" target="[end]"/>
+      <arc id="8763821385969" source="(20 | 5)" target="Queued"/>
+      <arc id="8763821386002" source="[start&gt;" target="(20 | 5)"/>
+      <arc id="8763821386389" source="[start&gt;" target="(24 | 9)"/>
+      <arc id="8763821386425" source="Completed" target="(18 | 3)"/>
+      <arc id="8763821386428" source="[start&gt;" target="(18 | 3)"/>
+      <arc id="8763821386143" source="Accepted" target="(24 | 9)"/>
+    </page>
+    <finalmarkings>
+      <marking>
+        <place idref="endPlace">
+          <text>1</text>
+        </place>
+      </marking>
+    </finalmarkings>
+  </net>
+</pnml>

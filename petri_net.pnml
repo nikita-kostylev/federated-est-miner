@@ -1,0 +1,539 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pnml>
+  <net id="net1" type="http://www.pnml.org/version-2009/grammar/pnmlcoremodel">
+    <page id="n0">
+      <place id="(64 | 32)">
+        <name>
+          <text>(64 | 32)</text>
+        </name>
+      </place>
+      <place id="(712 | 116)">
+        <name>
+          <text>(712 | 116)</text>
+        </name>
+      </place>
+      <place id="(824 | 454)">
+        <name>
+          <text>(824 | 454)</text>
+        </name>
+      </place>
+      <place id="(680 | 150)">
+        <name>
+          <text>(680 | 150)</text>
+        </name>
+      </place>
+      <place id="(512 | 256)">
+        <name>
+          <text>(512 | 256)</text>
+        </name>
+      </place>
+      <place id="(104 | 164)">
+        <name>
+          <text>(104 | 164)</text>
+        </name>
+      </place>
+      <place id="(32 | 4)">
+        <name>
+          <text>(32 | 4)</text>
+        </name>
+      </place>
+      <place id="(616 | 116)">
+        <name>
+          <text>(616 | 116)</text>
+        </name>
+      </place>
+      <place id="(120 | 172)">
+        <name>
+          <text>(120 | 172)</text>
+        </name>
+      </place>
+      <place id="(512 | 8)">
+        <name>
+          <text>(512 | 8)</text>
+        </name>
+      </place>
+      <place id="(80 | 40)">
+        <name>
+          <text>(80 | 40)</text>
+        </name>
+      </place>
+      <place id="(4 | 2)">
+        <name>
+          <text>(4 | 2)</text>
+        </name>
+      </place>
+      <place id="(568 | 300)">
+        <name>
+          <text>(568 | 300)</text>
+        </name>
+      </place>
+      <place id="(8 | 4)">
+        <name>
+          <text>(8 | 4)</text>
+        </name>
+      </place>
+      <place id="(512 | 16)">
+        <name>
+          <text>(512 | 16)</text>
+        </name>
+      </place>
+      <place id="(872 | 484)">
+        <name>
+          <text>(872 | 484)</text>
+        </name>
+      </place>
+      <place id="(16 | 4)">
+        <name>
+          <text>(16 | 4)</text>
+        </name>
+      </place>
+      <place id="(56 | 134)">
+        <name>
+          <text>(56 | 134)</text>
+        </name>
+      </place>
+      <place id="(864 | 308)">
+        <name>
+          <text>(864 | 308)</text>
+        </name>
+      </place>
+      <place id="(720 | 92)">
+        <name>
+          <text>(720 | 92)</text>
+        </name>
+      </place>
+      <place id="(1016 | 508)">
+        <name>
+          <text>(1016 | 508)</text>
+        </name>
+      </place>
+      <place id="(888 | 444)">
+        <name>
+          <text>(888 | 444)</text>
+        </name>
+      </place>
+      <place id="(336 | 28)">
+        <name>
+          <text>(336 | 28)</text>
+        </name>
+      </place>
+      <place id="(128 | 4)">
+        <name>
+          <text>(128 | 4)</text>
+        </name>
+      </place>
+      <place id="(680 | 294)">
+        <name>
+          <text>(680 | 294)</text>
+        </name>
+      </place>
+      <place id="(840 | 404)">
+        <name>
+          <text>(840 | 404)</text>
+        </name>
+      </place>
+      <place id="(704 | 84)">
+        <name>
+          <text>(704 | 84)</text>
+        </name>
+      </place>
+      <place id="(888 | 470)">
+        <name>
+          <text>(888 | 470)</text>
+        </name>
+      </place>
+      <place id="(472 | 188)">
+        <name>
+          <text>(472 | 188)</text>
+        </name>
+      </place>
+      <place id="endPlace">
+        <name>
+          <text>endPlace</text>
+        </name>
+      </place>
+      <place id="(2 | 1)">
+        <name>
+          <text>(2 | 1)</text>
+        </name>
+      </place>
+      <place id="(456 | 180)">
+        <name>
+          <text>(456 | 180)</text>
+        </name>
+      </place>
+      <place id="(888 | 492)">
+        <name>
+          <text>(888 | 492)</text>
+        </name>
+      </place>
+      <place id="startPlace">
+        <name>
+          <text>startPlace</text>
+        </name>
+        <initialMarking>
+          <text>1</text>
+        </initialMarking>
+      </place>
+      <place id="(680 | 198)">
+        <name>
+          <text>(680 | 198)</text>
+        </name>
+      </place>
+      <place id="(360 | 172)">
+        <name>
+          <text>(360 | 172)</text>
+        </name>
+      </place>
+      <place id="(256 | 128)">
+        <name>
+          <text>(256 | 128)</text>
+        </name>
+      </place>
+      <place id="(880 | 316)">
+        <name>
+          <text>(880 | 316)</text>
+        </name>
+      </place>
+      <place id="(728 | 124)">
+        <name>
+          <text>(728 | 124)</text>
+        </name>
+      </place>
+      <place id="(512 | 64)">
+        <name>
+          <text>(512 | 64)</text>
+        </name>
+      </place>
+      <place id="(808 | 396)">
+        <name>
+          <text>(808 | 396)</text>
+        </name>
+      </place>
+      <place id="(320 | 20)">
+        <name>
+          <text>(320 | 20)</text>
+        </name>
+      </place>
+      <transition id="[start&gt;">
+        <name>
+          <text>[start&gt;</text>
+        </name>
+      </transition>
+      <transition id="Store SoC">
+        <name>
+          <text>Store SoC</text>
+        </name>
+      </transition>
+      <transition id="Store Screen">
+        <name>
+          <text>Store Screen</text>
+        </name>
+      </transition>
+      <transition id="[end]">
+        <name>
+          <text>[end]</text>
+        </name>
+      </transition>
+      <transition id="Package Phone">
+        <name>
+          <text>Package Phone</text>
+        </name>
+      </transition>
+      <transition id="Apply Battery to Frame">
+        <name>
+          <text>Apply Battery to Frame</text>
+        </name>
+      </transition>
+      <transition id="Apply Screen to Frame">
+        <name>
+          <text>Apply Screen to Frame</text>
+        </name>
+      </transition>
+      <transition id="Apply SoC to Frame">
+        <name>
+          <text>Apply SoC to Frame</text>
+        </name>
+      </transition>
+      <transition id="Ship Phone">
+        <name>
+          <text>Ship Phone</text>
+        </name>
+      </transition>
+      <transition id="Store Battery">
+        <name>
+          <text>Store Battery</text>
+        </name>
+      </transition>
+      <arc id="8791299593729" source="Store SoC" target="(568 | 300)"/>
+      <arc id="8791299608069" source="(888 | 492)" target="Apply SoC to Frame"/>
+      <arc id="8791299607557" source="[start&gt;" target="(680 | 150)"/>
+      <arc id="8791299597829" source="(128 | 4)" target="Package Phone"/>
+      <arc id="8791299593737" source="(568 | 300)" target="Apply Battery to Frame"/>
+      <arc id="8791299593225" source="(840 | 404)" target="Package Phone"/>
+      <arc id="8791299619337" source="(56 | 134)" target="Ship Phone"/>
+      <arc id="8791299608077" source="Apply SoC to Frame" target="(888 | 492)"/>
+      <arc id="8791299593745" source="Apply Battery to Frame" target="(568 | 300)"/>
+      <arc id="8791299593233" source="Apply SoC to Frame" target="(840 | 404)"/>
+      <arc id="8791299608085" source="Store SoC" target="(888 | 492)"/>
+      <arc id="8791299593753" source="(568 | 300)" target="Store Screen"/>
+      <arc id="8791299593241" source="(840 | 404)" target="Store SoC"/>
+      <arc id="8791299608093" source="(888 | 492)" target="Apply Battery to Frame"/>
+      <arc id="8791299607581" source="(728 | 124)" target="Package Phone"/>
+      <arc id="8791299593761" source="[start&gt;" target="(568 | 300)"/>
+      <arc id="8791299593249" source="Store Battery" target="(840 | 404)"/>
+      <arc id="8791299619361" source="(56 | 134)" target="Package Phone"/>
+      <arc id="8791299608101" source="Apply Battery to Frame" target="(888 | 492)"/>
+      <arc id="8791299607589" source="(728 | 124)" target="Apply SoC to Frame"/>
+      <arc id="8791299597861" source="Apply Screen to Frame" target="(128 | 4)"/>
+      <arc id="8791299593257" source="(840 | 404)" target="Apply Screen to Frame"/>
+      <arc id="8791299608109" source="(888 | 492)" target="Store Battery"/>
+      <arc id="8791299607597" source="Apply SoC to Frame" target="(728 | 124)"/>
+      <arc id="8791299593265" source="(840 | 404)" target="Store Screen"/>
+      <arc id="8791299608117" source="Store Battery" target="(888 | 492)"/>
+      <arc id="8791299607605" source="(728 | 124)" target="Store SoC"/>
+      <arc id="8791299593785" source="(808 | 396)" target="Package Phone"/>
+      <arc id="8791299593273" source="Store Screen" target="(840 | 404)"/>
+      <arc id="8791299619385" source="Apply SoC to Frame" target="(56 | 134)"/>
+      <arc id="8791299608125" source="(888 | 492)" target="Apply Screen to Frame"/>
+      <arc id="8791299607613" source="Store SoC" target="(728 | 124)"/>
+      <arc id="8791299593793" source="(808 | 396)" target="Apply SoC to Frame"/>
+      <arc id="8791299593281" source="[start&gt;" target="(840 | 404)"/>
+      <arc id="8791299618881" source="(704 | 84)" target="Package Phone"/>
+      <arc id="8791299608133" source="(888 | 492)" target="Store Screen"/>
+      <arc id="8791299607621" source="(728 | 124)" target="Apply Battery to Frame"/>
+      <arc id="8791299593801" source="Apply SoC to Frame" target="(808 | 396)"/>
+      <arc id="8791299608141" source="Store Screen" target="(888 | 492)"/>
+      <arc id="8791299607629" source="(728 | 124)" target="Store Battery"/>
+      <arc id="8791299593809" source="Apply Battery to Frame" target="(808 | 396)"/>
+      <arc id="8791299608149" source="[start&gt;" target="(888 | 492)"/>
+      <arc id="8791299607637" source="Store Battery" target="(728 | 124)"/>
+      <arc id="8791299593817" source="(808 | 396)" target="Apply Screen to Frame"/>
+      <arc id="8791299593305" source="(120 | 172)" target="Package Phone"/>
+      <arc id="8791299597401" source="(64 | 32)" target="Apply Battery to Frame"/>
+      <arc id="8791299607645" source="Apply Screen to Frame" target="(728 | 124)"/>
+      <arc id="8791299618909" source="(704 | 84)" target="Store SoC"/>
+      <arc id="8791299593825" source="(808 | 396)" target="Store Screen"/>
+      <arc id="8791299593313" source="(120 | 172)" target="Apply SoC to Frame"/>
+      <arc id="8791299597409" source="Store Battery" target="(64 | 32)"/>
+      <arc id="8791299607653" source="[start&gt;" target="(728 | 124)"/>
+      <arc id="8791299593833" source="Store Screen" target="(808 | 396)"/>
+      <arc id="8791299593321" source="Apply SoC to Frame" target="(120 | 172)"/>
+      <arc id="8791299608173" source="(888 | 470)" target="Ship Phone"/>
+      <arc id="8791299593841" source="[start&gt;" target="(808 | 396)"/>
+      <arc id="8791299593329" source="Store SoC" target="(120 | 172)"/>
+      <arc id="8791299608181" source="(888 | 470)" target="Package Phone"/>
+      <arc id="8791299618933" source="(704 | 84)" target="Store Battery"/>
+      <arc id="8791299597941" source="(32 | 4)" target="Package Phone"/>
+      <arc id="8791299593337" source="(120 | 172)" target="Apply Battery to Frame"/>
+      <arc id="8791299608189" source="Apply SoC to Frame" target="(888 | 470)"/>
+      <arc id="8791299607677" source="(472 | 188)" target="Package Phone"/>
+      <arc id="8791299593345" source="Apply Battery to Frame" target="(120 | 172)"/>
+      <arc id="8791299608197" source="(888 | 470)" target="Store SoC"/>
+      <arc id="8791299607685" source="(472 | 188)" target="Apply SoC to Frame"/>
+      <arc id="8791299593865" source="(680 | 294)" target="Ship Phone"/>
+      <arc id="8791299593353" source="Store Battery" target="(120 | 172)"/>
+      <arc id="8791299608205" source="Store SoC" target="(888 | 470)"/>
+      <arc id="8791299607693" source="Apply SoC to Frame" target="(472 | 188)"/>
+      <arc id="8791299593721" source="Apply SoC to Frame" target="(568 | 300)"/>
+      <arc id="8791299597965" source="Apply Battery to Frame" target="(32 | 4)"/>
+      <arc id="8791299593873" source="(680 | 294)" target="Package Phone"/>
+      <arc id="8791299593361" source="(120 | 172)" target="Apply Screen to Frame"/>
+      <arc id="8791299619473" source="Store Screen" target="(336 | 28)"/>
+      <arc id="8791299618961" source="Store Battery" target="(704 | 84)"/>
+      <arc id="8791299608213" source="Apply Battery to Frame" target="(888 | 470)"/>
+      <arc id="8791299607701" source="(472 | 188)" target="Store SoC"/>
+      <arc id="8791299597461" source="(320 | 20)" target="Store SoC"/>
+      <arc id="8791299593881" source="Apply SoC to Frame" target="(680 | 294)"/>
+      <arc id="8791299619481" source="Apply Battery to Frame" target="(56 | 134)"/>
+      <arc id="8791299608221" source="(888 | 470)" target="Store Battery"/>
+      <arc id="8791299607709" source="Store SoC" target="(472 | 188)"/>
+      <arc id="8791299619485" source="(56 | 134)" target="Apply Screen to Frame"/>
+      <arc id="8791299593889" source="(680 | 294)" target="Apply Battery to Frame"/>
+      <arc id="8791299608229" source="Store Battery" target="(888 | 470)"/>
+      <arc id="8791299607717" source="(472 | 188)" target="Apply Battery to Frame"/>
+      <arc id="8791299593897" source="Apply Battery to Frame" target="(680 | 294)"/>
+      <arc id="8791299593385" source="(360 | 172)" target="Package Phone"/>
+      <arc id="8791299618985" source="Apply Screen to Frame" target="(704 | 84)"/>
+      <arc id="8791299608237" source="(888 | 470)" target="Apply Screen to Frame"/>
+      <arc id="8791299607725" source="Store Battery" target="(472 | 188)"/>
+      <arc id="8791299618989" source="[start&gt;" target="(704 | 84)"/>
+      <arc id="8791299593905" source="Apply Screen to Frame" target="(680 | 294)"/>
+      <arc id="8791299593393" source="(360 | 172)" target="Apply SoC to Frame"/>
+      <arc id="8791299597489" source="(320 | 20)" target="Package Phone"/>
+      <arc id="8791299608245" source="(888 | 470)" target="Store Screen"/>
+      <arc id="8791299607733" source="(472 | 188)" target="Apply Screen to Frame"/>
+      <arc id="8791299593913" source="(680 | 294)" target="Store Screen"/>
+      <arc id="8791299593401" source="Apply SoC to Frame" target="(360 | 172)"/>
+      <arc id="8791299608253" source="Store Screen" target="(888 | 470)"/>
+      <arc id="8791299607741" source="Apply Screen to Frame" target="(472 | 188)"/>
+      <arc id="8791299593921" source="[start&gt;" target="(680 | 294)"/>
+      <arc id="8791299593409" source="(360 | 172)" target="Apply Battery to Frame"/>
+      <arc id="8791299608261" source="[start&gt;" target="(888 | 470)"/>
+      <arc id="8791299607749" source="Store Screen" target="(472 | 188)"/>
+      <arc id="8791299593417" source="Apply Battery to Frame" target="(360 | 172)"/>
+      <arc id="8791299593425" source="Store Battery" target="(360 | 172)"/>
+      <arc id="8791299593945" source="(616 | 116)" target="Package Phone"/>
+      <arc id="8791299593433" source="(360 | 172)" target="Apply Screen to Frame"/>
+      <arc id="8791299608285" source="(888 | 444)" target="Package Phone"/>
+      <arc id="8791299607773" source="(872 | 484)" target="Package Phone"/>
+      <arc id="8791299619549" source="Store Battery" target="(336 | 28)"/>
+      <arc id="8791299598045" source="(8 | 4)" target="Package Phone"/>
+      <arc id="8791299593953" source="Apply SoC to Frame" target="(616 | 116)"/>
+      <arc id="8791299593441" source="Store Screen" target="(360 | 172)"/>
+      <arc id="8791299608293" source="(888 | 444)" target="Apply SoC to Frame"/>
+      <arc id="8791299607781" source="Apply SoC to Frame" target="(872 | 484)"/>
+      <arc id="8791299597541" source="(512 | 256)" target="Store Screen"/>
+      <arc id="8791299593961" source="(616 | 116)" target="Store SoC"/>
+      <arc id="8791299608301" source="Apply SoC to Frame" target="(888 | 444)"/>
+      <arc id="8791299607789" source="(872 | 484)" target="Apply Battery to Frame"/>
+      <arc id="8791299593969" source="(616 | 116)" target="Apply Battery to Frame"/>
+      <arc id="8791299608309" source="(888 | 444)" target="Store SoC"/>
+      <arc id="8791299607797" source="Apply Battery to Frame" target="(872 | 484)"/>
+      <arc id="8791299619573" source="(336 | 28)" target="Store SoC"/>
+      <arc id="8791299598069" source="Apply SoC to Frame" target="(8 | 4)"/>
+      <arc id="8791299593977" source="Apply Battery to Frame" target="(616 | 116)"/>
+      <arc id="8791299593465" source="(720 | 92)" target="Package Phone"/>
+      <arc id="8791299619065" source="(104 | 164)" target="Package Phone"/>
+      <arc id="8791299597561" source="[start&gt;" target="(512 | 256)"/>
+      <arc id="8791299608317" source="Store SoC" target="(888 | 444)"/>
+      <arc id="8791299607805" source="(872 | 484)" target="Store Battery"/>
+      <arc id="8791299619581" source="(336 | 28)" target="Package Phone"/>
+      <arc id="8791299593985" source="(616 | 116)" target="Store Battery"/>
+      <arc id="8791299593473" source="(720 | 92)" target="Apply SoC to Frame"/>
+      <arc id="8791299608325" source="(888 | 444)" target="Apply Battery to Frame"/>
+      <arc id="8791299607813" source="Store Battery" target="(872 | 484)"/>
+      <arc id="8791299619589" source="Store SoC" target="(336 | 28)"/>
+      <arc id="8791299593993" source="Store Battery" target="(616 | 116)"/>
+      <arc id="8791299593481" source="(720 | 92)" target="Store SoC"/>
+      <arc id="8791299608333" source="Apply Battery to Frame" target="(888 | 444)"/>
+      <arc id="8791299607821" source="(872 | 484)" target="Apply Screen to Frame"/>
+      <arc id="8791299594001" source="[start&gt;" target="(616 | 116)"/>
+      <arc id="8791299593489" source="Store SoC" target="(720 | 92)"/>
+      <arc id="8791299619089" source="Apply SoC to Frame" target="(104 | 164)"/>
+      <arc id="8791299608341" source="Store Battery" target="(888 | 444)"/>
+      <arc id="8791299607829" source="(872 | 484)" target="Store Screen"/>
+      <arc id="8791299593497" source="(720 | 92)" target="Store Battery"/>
+      <arc id="8791299608349" source="(888 | 444)" target="Apply Screen to Frame"/>
+      <arc id="8791299607837" source="Store Screen" target="(872 | 484)"/>
+      <arc id="8791299593505" source="Store Battery" target="(720 | 92)"/>
+      <arc id="8791299608357" source="(888 | 444)" target="Store Screen"/>
+      <arc id="8791299607845" source="[start&gt;" target="(872 | 484)"/>
+      <arc id="8791299594025" source="(680 | 198)" target="Ship Phone"/>
+      <arc id="8791299593513" source="Apply Screen to Frame" target="(720 | 92)"/>
+      <arc id="8791299619625" source="(336 | 28)" target="Apply SoC to Frame"/>
+      <arc id="8791299619113" source="(104 | 164)" target="Apply Battery to Frame"/>
+      <arc id="8791299608365" source="Store Screen" target="(888 | 444)"/>
+      <arc id="8791299594033" source="(680 | 198)" target="Package Phone"/>
+      <arc id="8791299593521" source="[start&gt;" target="(720 | 92)"/>
+      <arc id="8791299608373" source="[start&gt;" target="(888 | 444)"/>
+      <arc id="8791299598133" source="(4 | 2)" target="Ship Phone"/>
+      <arc id="8791299594041" source="Apply SoC to Frame" target="(680 | 198)"/>
+      <arc id="8791299607869" source="(824 | 454)" target="Ship Phone"/>
+      <arc id="8791299594049" source="Apply Battery to Frame" target="(680 | 198)"/>
+      <arc id="8791299607877" source="(824 | 454)" target="Package Phone"/>
+      <arc id="8791299594057" source="(680 | 198)" target="Store Battery"/>
+      <arc id="8791299593545" source="(712 | 116)" target="Package Phone"/>
+      <arc id="8791299597641" source="(512 | 64)" target="Store Battery"/>
+      <arc id="8791299608397" source="(1016 | 508)" target="Package Phone"/>
+      <arc id="8791299607885" source="Apply SoC to Frame" target="(824 | 454)"/>
+      <arc id="8791299594065" source="(680 | 198)" target="Apply Screen to Frame"/>
+      <arc id="8791299593553" source="Apply SoC to Frame" target="(712 | 116)"/>
+      <arc id="8791299598161" source="Package Phone" target="(4 | 2)"/>
+      <arc id="8791299608405" source="(1016 | 508)" target="Apply SoC to Frame"/>
+      <arc id="8791299607893" source="Store SoC" target="(824 | 454)"/>
+      <arc id="8791299594073" source="Apply Screen to Frame" target="(680 | 198)"/>
+      <arc id="8791299593561" source="(712 | 116)" target="Store SoC"/>
+      <arc id="8791299608413" source="Apply SoC to Frame" target="(1016 | 508)"/>
+      <arc id="8791299607901" source="Apply Battery to Frame" target="(824 | 454)"/>
+      <arc id="8791299619165" source="Apply Battery to Frame" target="(104 | 164)"/>
+      <arc id="8791299619677" source="Store Battery" target="(320 | 20)"/>
+      <arc id="8791299594081" source="[start&gt;" target="(680 | 198)"/>
+      <arc id="8791299593569" source="(712 | 116)" target="Apply Battery to Frame"/>
+      <arc id="8791299608421" source="(1016 | 508)" target="Store SoC"/>
+      <arc id="8791299607909" source="(824 | 454)" target="Store Battery"/>
+      <arc id="8791299619173" source="Store Battery" target="(104 | 164)"/>
+      <arc id="8791299619685" source="Store Screen" target="(320 | 20)"/>
+      <arc id="8791299593577" source="(712 | 116)" target="Store Battery"/>
+      <arc id="8791299597673" source="[start&gt;" target="(512 | 64)"/>
+      <arc id="8791299608429" source="Store SoC" target="(1016 | 508)"/>
+      <arc id="8791299607917" source="(824 | 454)" target="Apply Screen to Frame"/>
+      <arc id="8791299593585" source="Store Battery" target="(712 | 116)"/>
+      <arc id="8791299608437" source="(1016 | 508)" target="Apply Battery to Frame"/>
+      <arc id="8791299607925" source="(824 | 454)" target="Store Screen"/>
+      <arc id="8791299614581" source="(512 | 16)" target="Store SoC"/>
+      <arc id="8791299594105" source="(864 | 308)" target="Package Phone"/>
+      <arc id="8791299593593" source="Apply Screen to Frame" target="(712 | 116)"/>
+      <arc id="8791299607933" source="Store Screen" target="(824 | 454)"/>
+      <arc id="8791299608445" source="Apply Battery to Frame" target="(1016 | 508)"/>
+      <arc id="8791299619197" source="(104 | 164)" target="Apply Screen to Frame"/>
+      <arc id="8791299598205" source="[start&gt;" target="(512 | 8)"/>
+      <arc id="8791299594113" source="(864 | 308)" target="Store SoC"/>
+      <arc id="8791299593601" source="[start&gt;" target="(712 | 116)"/>
+      <arc id="8791299608453" source="(1016 | 508)" target="Store Battery"/>
+      <arc id="8791299607941" source="[start&gt;" target="(824 | 454)"/>
+      <arc id="8791299594121" source="(864 | 308)" target="Apply Battery to Frame"/>
+      <arc id="8791299608461" source="Store Battery" target="(1016 | 508)"/>
+      <arc id="8791299594129" source="Apply Battery to Frame" target="(864 | 308)"/>
+      <arc id="8791299614609" source="[start&gt;" target="(512 | 16)"/>
+      <arc id="8791299608469" source="(1016 | 508)" target="Apply Screen to Frame"/>
+      <arc id="8791299594137" source="Store Battery" target="(864 | 308)"/>
+      <arc id="8791299593625" source="(456 | 180)" target="Package Phone"/>
+      <arc id="8791299608477" source="Apply Screen to Frame" target="(1016 | 508)"/>
+      <arc id="8791299607965" source="(880 | 316)" target="Package Phone"/>
+      <arc id="8791299594145" source="(864 | 308)" target="Store Screen"/>
+      <arc id="8791299593633" source="Apply SoC to Frame" target="(456 | 180)"/>
+      <arc id="8791299608485" source="(1016 | 508)" target="Store Screen"/>
+      <arc id="8791299607973" source="(880 | 316)" target="Apply SoC to Frame"/>
+      <arc id="8791299597733" source="(2 | 1)" target="[end]"/>
+      <arc id="8791299594153" source="Store Screen" target="(864 | 308)"/>
+      <arc id="8791299593641" source="(456 | 180)" target="Store SoC"/>
+      <arc id="8791299608493" source="Store Screen" target="(1016 | 508)"/>
+      <arc id="8791299607981" source="(880 | 316)" target="Store SoC"/>
+      <arc id="8791299594161" source="[start&gt;" target="(864 | 308)"/>
+      <arc id="8791299593649" source="(456 | 180)" target="Apply Battery to Frame"/>
+      <arc id="8791299619761" source="(80 | 40)" target="Apply SoC to Frame"/>
+      <arc id="8791299608501" source="[start&gt;" target="(1016 | 508)"/>
+      <arc id="8791299607989" source="Store SoC" target="(880 | 316)"/>
+      <arc id="8791299593657" source="Store Battery" target="(456 | 180)"/>
+      <arc id="8791299598265" source="(256 | 128)" target="Apply Screen to Frame"/>
+      <arc id="8791299607997" source="(880 | 316)" target="Apply Battery to Frame"/>
+      <arc id="8791299619833" source="Store Battery" target="(80 | 40)"/>
+      <arc id="8791299597757" source="Ship Phone" target="(2 | 1)"/>
+      <arc id="8791299593665" source="(456 | 180)" target="Apply Screen to Frame"/>
+      <arc id="8791299608005" source="Apply Battery to Frame" target="(880 | 316)"/>
+      <arc id="8791299594185" source="(680 | 150)" target="Ship Phone"/>
+      <arc id="8791299593673" source="Apply Screen to Frame" target="(456 | 180)"/>
+      <arc id="8791299619785" source="Store SoC" target="(80 | 40)"/>
+      <arc id="8791299608525" source="[end]" target="endPlace"/>
+      <arc id="8791299608013" source="Store Battery" target="(880 | 316)"/>
+      <arc id="8791299594193" source="(680 | 150)" target="Package Phone"/>
+      <arc id="8791299593681" source="Store Screen" target="(456 | 180)"/>
+      <arc id="8791299598289" source="Store Screen" target="(256 | 128)"/>
+      <arc id="8791299608021" source="(880 | 316)" target="Store Screen"/>
+      <arc id="8791299594201" source="Apply SoC to Frame" target="(680 | 150)"/>
+      <arc id="8791299608541" source="startPlace" target="[start&gt;"/>
+      <arc id="8791299608029" source="Store Screen" target="(880 | 316)"/>
+      <arc id="8791299597789" source="(512 | 8)" target="Apply SoC to Frame"/>
+      <arc id="8791299614685" source="(16 | 4)" target="Package Phone"/>
+      <arc id="8791299594209" source="(680 | 150)" target="Store SoC"/>
+      <arc id="8791299619809" source="(80 | 40)" target="Apply Battery to Frame"/>
+      <arc id="8791299608037" source="[start&gt;" target="(880 | 316)"/>
+      <arc id="8791299619301" source="Store SoC" target="(56 | 134)"/>
+      <arc id="8791299594217" source="Apply Battery to Frame" target="(680 | 150)"/>
+      <arc id="8791299593705" source="(568 | 300)" target="Package Phone"/>
+      <arc id="8791299614701" source="Store SoC" target="(16 | 4)"/>
+      <arc id="8791299594225" source="(680 | 150)" target="Apply Screen to Frame"/>
+      <arc id="8791299593713" source="(568 | 300)" target="Apply SoC to Frame"/>
+      <arc id="8791299594233" source="Apply Screen to Frame" target="(680 | 150)"/>
+      <arc id="8791299608061" source="(888 | 492)" target="Package Phone"/>
+    </page>
+    <finalmarkings>
+      <marking>
+        <place idref="endPlace">
+          <text>1</text>
+        </place>
+      </marking>
+    </finalmarkings>
+  </net>
+</pnml>
