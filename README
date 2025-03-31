@@ -1,18 +1,19 @@
-Welcome to Process Mining for Python!
+# Federated eST-Miner
 
-PM4Py is a python library that supports (state-of-the-art) process mining algorithms in python. It is completely open source and intended to be used in both academia and industry projects.
+This repository contains the code for my bachelor thesis "Developing a Federated eST-Miner"
 
-The official website of the library is http://http://pm4py.pads.rwth-aachen.de/
+To run the code, the OpenFHE docker container is needed.
 
-You can always check out (changes to) the source code at the github repo.
 
-A very simple example, to whet your apetite:
+The homomorph code directory contains:
+-the key setup(server.py,client.py,run.sh)
+-the Combined Log Generation(server2.py,client2.py,run2.sh)
+-the federated eST-Miner(server3.py,client3.py,run3.sh) 
 
-from pm4py.algo.discovery.alpha import factory as alpha_miner
-from pm4py.objects.log.importer.xes import factory as xes_importer
-from pm4py.visualization.petrinet import factory as vis_factory
+test.py is starting the regular eST-Miner and the regular eST-Miner with place removal.
 
-log = xes_importer.import_log('<path-to-xes-log-file>')
-net, initial_marking, final_marking = alpha_miner.apply(log)
-gviz = vis_factory.apply(net, initial_marking, final_marking)
-vis_factory.view(gviz)
+securitymetrics.py contains all privacy metrics and trace reconstruction mechanisms that were developed. 
+
+renameT.py was used to create the synthetic logs contained in logandother.
+
+
